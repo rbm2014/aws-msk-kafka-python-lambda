@@ -54,13 +54,13 @@ To deploy these Lambda functions, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/rbm2014/aws-msk-kafka-python-lambda.git
+    cd aws-msk-kafka-python-lambda
     ```
 
 2. **Modify Placeholders:**
    
-   Open the Lambda function scripts and replace the placeholders with your actual Kafka bootstrap servers, topic names, and any other necessary information.
+   Open the Lambda function scripts and replace the placeholders with your actual Kafka bootstrap servers, topic names, and any other necessary information. The bootstrap servers can be found in your AWS MSK cluster (Amazon MSK -> Clusters -> Your Cluster Name) and clicking on the button "View client information"
    
    ```python
    bootstrap_servers = ['<YOUR_BOOTSTRAP_SERVER_1>', '<YOUR_BOOTSTRAP_SERVER_2>']
