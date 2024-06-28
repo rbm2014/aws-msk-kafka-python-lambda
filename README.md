@@ -4,7 +4,7 @@
 
 ### Note
 > **Disclaimer:** Please note that while using any AWS service, you may incur costs associated with data usage, network charges, or other expenses. We want to emphasize that we are not responsible for any costs that may arise from your use of this service. It is your responsibility to be aware of and manage any associated costs.
-> These are NOT production codes, it is a way to test the functionality of MSK using AWS Lambda
+> **Note:** These are NOT production codes, it is a way to test the functionality of MSK using AWS Lambda
 
 ## Overview
 
