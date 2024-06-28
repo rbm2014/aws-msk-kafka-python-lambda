@@ -2,6 +2,10 @@
 
 # AWS Lambda Functions for Kafka Consumer and Producer
 
+### Note
+> **Disclaimer:** Please note that while using any AWS service, you may incur costs associated with data usage, network charges, or other expenses. We want to emphasize that we are not responsible for any costs that may arise from your use of this service. It is your responsibility to be aware of and manage any associated costs.
+> These are NOT production codes, it is a way to test the functionality of MSK using AWS Lambda
+
 ## Overview
 
 This repository contains two AWS Lambda functions designed to interact with an Amazon Managed Streaming for Apache Kafka (MSK) cluster. These functions serve as a Kafka consumer and producer, respectively. 
