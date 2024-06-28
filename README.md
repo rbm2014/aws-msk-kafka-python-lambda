@@ -14,6 +14,9 @@ This repository contains two AWS Lambda functions designed to interact with an A
 - **Consumer Function:** This Lambda function consumes messages from a specified Kafka topic.
 - **Producer Function:** This Lambda function produces messages to a specified Kafka topic.
 
+- Following design shows the objective of this simple project
+![](msk-dev-arc.PNG)
+
 ## Functions
 
 ### Consumer Lambda Function
